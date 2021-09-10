@@ -1,0 +1,36 @@
+.jumbotron{
+    height: 100vh;
+
+    color: black;
+}
+
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: local;
+  font-family: Bahnschrift SemiBold,Bahnschrift SemiBold,fantasy; 
+}
+.container-j {
+	  background: rgba(0, 0, 0, 0.5); 
+  	  margin: auto;
+ 	  width: 100%;
+  	 border: 3px solid white;
+ 	 padding: 70px;
+
+ 	
+}
+.navbar-light {
+  background-color:white;
+  opacity: 0.9; }
+.navbar-nav {
+  margin-left: auto;
+
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+    color: blue;
+}
